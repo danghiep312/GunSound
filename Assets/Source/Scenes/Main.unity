@@ -12901,6 +12901,13 @@ MonoBehaviour:
     pitch: 1
     loop: 0
     source: {fileID: 0}
+  - name: FireEmpty
+    audioType: 0
+    clip: {fileID: 8300000, guid: 223a7218710ef594692d48e2661f7635, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
   soundOn: 0
   musicOn: 0
 --- !u!1 &1198835288

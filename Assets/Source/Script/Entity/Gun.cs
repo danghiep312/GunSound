@@ -145,7 +145,11 @@ public class Gun : MonoBehaviour
 
     private void Fire()
     {
-        if (bulletCount <= 0) return;
+        if (bulletCount < 0) return;
+        if (bulletCount == 0)
+        {
+            AudioManager.Instance.Play("FireEmpty");
+        }
         
         if (GameManager.Instance.vibrationOn)
         {
