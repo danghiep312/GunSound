@@ -15,5 +15,5 @@ MonoBehaviour:
   id: 35
   bombName: 
   explosionSoundName: Explosion
-  bombType: 1
+  bombType: 0
   bombSprite: {fileID: 21300000, guid: 9af267928511b3a44a350b0672c6e107, type: 3}

@@ -15,5 +15,5 @@ MonoBehaviour:
   id: 34
   bombName: 
   explosionSoundName: Watermine
-  bombType: 1
+  bombType: 0
   bombSprite: {fileID: 21300000, guid: daa1136d08ae15843906f507e25a8c18, type: 3}

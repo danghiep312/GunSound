@@ -9,11 +9,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: a36d2fab1bc2469bac28f4101fa10dc5, type: 3}
-  m_Name: 32
+  m_Script: {fileID: 11500000, guid: 7b60baf9cd3d400996b91ce8f1ace996, type: 3}
+  m_Name: Plasma
   m_EditorClassIdentifier: 
-  id: 32
-  bombName: 
-  explosionSoundName: Explosion
-  bombType: 0
-  bombSprite: {fileID: 21300000, guid: 6eb5402505ea05144bd779235834b9b7, type: 3}
+  id: 28
+  gunType: 1
+  gunName: Plasma
+  bullet: 0
+  gunSprite: {fileID: 21300000, guid: 3e900918ab40c644983236bdc8b7fa57, type: 3}
